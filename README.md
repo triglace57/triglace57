@@ -1,4 +1,4 @@
-### <div align="center">I'm Thomas, a future full-stack developer</div>  
+### <div align="center">I'm Thomas, a future developer</div>  
   
 
 - 🔭 I’m in a MIAGE master's degree  
